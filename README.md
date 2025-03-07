@@ -3,7 +3,7 @@
 **I'm a 16-year-old coding enthusiast from Germany** 🇩🇪, currently diving into the world of programming. I have a little bit of experience with **C#**, and I’m now focused on learning **Java** as I continue to grow my skills.
 
 ## 🚀 What I’m Learning
-- 🌱 Currently working on mastering **Java** 🟡
+- 🌱 Currently learning **Java** 🟡 & **Kotlin** 🟣
 - 💻 Dabbled in **C#** 🔵
 
 ## 📚 My Interests
