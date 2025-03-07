@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Marcel!
 
-<!--
-**mxrc3l/mxrc3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a 16-year-old coding enthusiast from Germany** 🇩🇪, currently diving into the world of programming. I have a little bit of experience with **C#**, and I’m now focused on learning **Java** as I continue to grow my skills.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Learning
+- 🌱 Currently working on mastering **Java** 🟡
+- 💻 Dabbled in **C#** 🔵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 My Interests
+- Coding 💻
+- Minecraft Plugins and Mods
+
+## 🌍 Where I'm From
+I'm proud to call **Germany** 🇩🇪 my home, and I hope to someday contribute to the global coding community with awesome projects.
+
+## 🤝 Connect with Me
+Feel free to reach out if you want to chat about coding, share learning resources, or collaborate on cool projects!
+
+---
+
+_“Learning to code is like learning to think in new ways. It’s challenging but super rewarding!”_ 🚀
